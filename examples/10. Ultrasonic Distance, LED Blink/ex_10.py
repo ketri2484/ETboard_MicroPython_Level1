@@ -6,6 +6,7 @@
 # Created Date : 2021.05.31
 # Reference :
 # Modified : 2021.06.01 : LIJ : 헤더수정
+# Modified : 2022.02.23 : SJI : 주석수정
 # ********************************************************************************
 
 # import
@@ -52,7 +53,7 @@ while True:
     else:
         Pin2.value(LOW)                            # 빨강색 LED 꺼짐
 
-    # usw_threshold_2 초과이면 usw_threshold_1 미만이면
+    # usw_threshold_2 미만이면 usw_threshold_1 초과이면
     if (distance < usw_threshold_2) and (distance > usw_threshold_1):
         Pin5.value(HIGH)                           # 노랑색 LED 켜짐
     else:

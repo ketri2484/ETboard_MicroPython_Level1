@@ -6,6 +6,7 @@
 # Created Date : 2021.05.31
 # Reference :
 # Modified : 2021.06.01 : LIJ : 헤더수정
+# Modified : 2022.02.23 : SJI : 소스 크린징
 # ********************************************************************************
 
 # import
@@ -39,7 +40,7 @@ while count < 1:
     PinD4.value(LOW)         # 초록 LED 끄기
     PinD5.value(LOW)         # 노랑 LED 끄기
     
-    if PinD6.value() == 0: 
+    if PinD6.value() == LOW: 
         count = 1 
 
 # ┌───────────────────────────────────────────┐
