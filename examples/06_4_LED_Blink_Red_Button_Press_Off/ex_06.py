@@ -1,7 +1,7 @@
 # ********************************************************************************
 # FileName : ex_06
 # Description : 4개의 LED를 빨간 버튼이
-#               눌릴때까지 껏다 켰다 반복하는 예제
+#               눌릴때까지 켰다 껐다 반복하는 예제
 # Author : 이인정
 # Created Date : 2021.05.31
 # Reference :
@@ -14,7 +14,7 @@ from machine import Pin
 import time
 
 # global definition
-count = 0                    # 4개의 LED를 빨간 버튼이 눌릴때까지 껏다 켰다 반복 하기 위한 변수
+count = 0                    # 4개의 LED를 빨간 버튼이 눌릴때까지 켰다 껐다 반복 하기 위한 변수
 
 
 # setup
