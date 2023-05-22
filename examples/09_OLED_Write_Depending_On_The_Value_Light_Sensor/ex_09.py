@@ -14,7 +14,7 @@ from machine import ADC
 
 # global definition
 oled = oled_u8g2()
-CDS_threshold_1 = 300                # 조도센서 임계치_1
+CDS_threshold_1 = 150                # 조도센서 임계치_1
 CDS_threshold_2 = 100                # 조도센서 임계치_2
 
 

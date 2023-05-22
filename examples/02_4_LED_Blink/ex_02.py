@@ -49,7 +49,7 @@ while count < 1:
     PinD4.value(LOW)     # 초록 LED 끄기
     PinD5.value(LOW)     # 노랑 LED 끄기
     
-    count = 1            # LED를 제어하지 않기 위해 count 변수를 1로 변
+    count = 1            # LED를 제어하지 않기 위해 count 변수를 1로 변경
 
 # ┌───────────────────────────────────────────┐
 # │                                           │
