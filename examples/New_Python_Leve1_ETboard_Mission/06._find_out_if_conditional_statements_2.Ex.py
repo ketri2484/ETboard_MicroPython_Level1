@@ -1,7 +1,7 @@
 # ********************************************************************************
 # FileName     : 06._find_out_if_conditional_statements_2.Ex
-# Description  : if 조건문을 사용하여 LED 켜지게 해보기_2
-# Description  : A 값이 100 보다 크면 빨강, 150보다 크면 파랑 LED 켜지게 해보기
+# Description  : if 조건문을 사용하여 LED 켜지게 해 보기_2
+# Description  : A 값이 100 보다 크면 빨강, 150보다 크면 파랑 LED 켜지게 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

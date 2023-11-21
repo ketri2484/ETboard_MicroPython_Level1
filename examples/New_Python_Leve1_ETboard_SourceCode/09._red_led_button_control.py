@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 09._red_led_button_control
-# Description  : 빨강 버튼 눌러서 빨강 LED 켜보기
+# Description  : 빨강 버튼 눌러서 빨강 LED 켜 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

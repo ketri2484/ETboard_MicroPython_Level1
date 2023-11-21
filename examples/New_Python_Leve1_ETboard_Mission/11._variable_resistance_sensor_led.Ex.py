@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 11._variable_resistance_sensor_led.Ex
-# Description  : 가변 저항 센서 값에 따라 순차적으로 LED 켜지게 해보기
+# Description  : 가변 저항 센서 값에 따라 순차적으로 LED 켜지게 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

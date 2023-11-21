@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 07._blue_button_state.Ex
-# Description  : 파랑 버튼 눌렀다, 뗐다 해보기
+# Description  : 파랑 버튼 눌렀다, 뗐다 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

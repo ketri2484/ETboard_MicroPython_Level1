@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 05._find_out_if_conditional_statements_1.Ex
-# Description  : if 조건문을 이용하여 LED 켜지게 해보기_1
+# Description  : if 조건문을 이용하여 LED 켜지게 해 보기_1
 # Author       : 오경석
 # Created Date : 2023.11.01
 # Reference    : A 값에 HIGH를 넣으면 어떻게 될까요?

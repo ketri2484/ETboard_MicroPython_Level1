@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 07._red_button_state
-# Description  : 빨강 버튼 눌렀다, 뗐다 해보기
+# Description  : 빨강 버튼 눌렀다, 뗐다 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

@@ -1,7 +1,7 @@
 # ********************************************************************************
 # FileName     : 06._find_out_if_conditional_statements_2
 # Description  : if 조건문 알아보기_2
-# Description  : A값이 50보다 크면 쉘에 "A값은 50보다 큽니다." 출력하기
+# Description  : A값이 50보다 크면 쉘에 "A값은 50보다 큽니다." 출력해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

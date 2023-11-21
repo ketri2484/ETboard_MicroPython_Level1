@@ -1,7 +1,7 @@
 # ********************************************************************************
 # FileName     : 13._temperature_sensor_led_cotrol.Ex
 # Description  : 온도 센서 결과 값이 일정 값보다 크면 LED 켜지게 해보기
-# Description  : 값이 2100 보다 크면 빨강,노랑, 2150 보다 크면 파랑, 초록 LED 켜지게 하기
+# Description  : 값이 2100 보다 크면 빨강,노랑, 2150 보다 크면 파랑, 초록 LED 켜지게 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 12._photoresistor_sensoer_led_cotrol.Ex
-# Description  : 조도 센서 값이 500 이하이면 순차적으로 LED 켜지게 해보기
+# Description  : 조도 센서 값이 500 이하이면 순차적으로 LED 켜지게 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

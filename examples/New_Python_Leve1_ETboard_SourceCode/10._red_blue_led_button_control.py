@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 10._red_blue_led_button_control
-# Description  : 빨강, 파랑 버튼 눌러서 LED 켜지게 해보기
+# Description  : 빨강, 파랑 버튼 눌러서 LED 켜지게 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 03._led_red_and_blue_blink
-# Description  : 빨강, 파랑 LED를 켰다 껐다 해보기
+# Description  : 빨강, 파랑 LED를 켰다, 껐다 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.01
 # Reference    :

@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 09._blue_led_button_control.Ex
-# Description  : 파랑 버튼 눌러서 파랑 LED 켜보기
+# Description  : 파랑 버튼 눌러서 파랑 LED 켜 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

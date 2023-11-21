@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 02._led_red_blink
-# Description  : 빨강 LED를 켰다 껐다 해보기
+# Description  : 빨강 LED를 켰다, 껐다 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.01
 # Reference    :

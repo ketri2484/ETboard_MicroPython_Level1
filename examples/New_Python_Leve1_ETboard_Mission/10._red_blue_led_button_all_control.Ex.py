@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 10._red_blue_led_button_all_control.Ex
-# Description  : 빨강, 파랑 버튼 눌러서 모든 LED 켰다 껐다 해보기
+# Description  : 빨강, 파랑 버튼 눌러서 모든 LED 켰다, 껐다 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :

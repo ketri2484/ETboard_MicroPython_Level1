@@ -1,6 +1,6 @@
 # ********************************************************************************
 # FileName     : 08._green_yellow_button_state
-# Description  : 초록, 노랑 버튼 눌렀다, 뗐다 해보기
+# Description  : 초록, 노랑 버튼 눌렀다, 뗐다 해 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :
