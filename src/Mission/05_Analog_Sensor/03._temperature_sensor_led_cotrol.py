@@ -1,5 +1,5 @@
 # ******************************************************************************************
-# FileName     : 13._temperature_sensor_led_cotrol
+# FileName     : 03._temperature_sensor_led_cotrol
 # Description  : 온도 센서 값이 1000보다 작으면 빨강 LED 켜 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
