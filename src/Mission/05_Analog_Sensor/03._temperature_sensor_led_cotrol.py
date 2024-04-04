@@ -1,10 +1,11 @@
 # ******************************************************************************************
 # FileName     : 03._temperature_sensor_led_cotrol
-# Description  : 온도 센서 값이 1000보다 작으면 빨강 LED 켜 보기
+# Description  : 온도 센서 값이 1950보다 작으면 빨강 LED 켜 보기
 # Author       : 오경석
 # Created Date : 2023.11.02
 # Reference    :
 # Modified     : 2024.03.28 : PEJ : 코드 수정, 딜레이 추가
+# Modified     : 2024.04.04 : PEJ : 비교 값 변경(1000 => 1950)
 # ******************************************************************************************
 
 
@@ -33,7 +34,7 @@ def loop():
 
     print(sensor_result)                   # 쉘에 온도 센서 값 출력
 
-    if sensor_result < 1000:               # 온도 센서의 값이 1000보다 작으면
+    if sensor_result < 1950:               # 온도 센서의 값이 1950보다 작으면
         led_red.value(HIGH)                # 빨강 LED 켜기
     else:
         led_red.value(LOW)                 # 빨강 LED 끄기
