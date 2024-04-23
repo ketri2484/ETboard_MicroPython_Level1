@@ -10,32 +10,32 @@
 
 
 # import
-import time                                    # 시간 관련 라이브러리
+import time                                   # 시간 관련 라이브러리
 
 
 # global variable
-score = 73                                     # score 변수에 73 저장
+score = 73                                    # score 변수에 73 저장
 
 
 # setup
 def setup():
-    pass                                       # 아무것도 하지 않고 건너뜀
+    pass                                      # 아무것도 하지 않고 건너뜀
 
 
 # main loop
 def loop():
-    if score >= 90:                            # score의 값이 90보다 같거나 크다면
-        print("성적은 A입니다.")               # 쉘에 "성적은 A입니다." 출력
-    elif score >= 80:                          # score의 값이 90보다 작고 80보다 같거나 크다면
-        print("성적은 B입니다.")               # 쉘에 "성적은 B입니다." 출력
-    elif score >= 70:                          # score의 값이 80보다 작고 70보다 같거나 크다면
-        print("성적은 C입니다.")               # 쉘에 "성적은 C입니다." 출력
-    elif score >= 60:                          # score의 값이 70보다 작고 60보다 같거나 크다면
-        print("성적은 D입니다.")               # 쉘에 "성적은 D입니다." 출력
-    else:                                      # score의 값이 60보다 작다면
-        print("성적은 F입니다.")               # 쉘에 "성적은 F입니다." 출력
+    if score >= 90:                           # score의 값이 90보다 크거나 같다면
+        print("성적은 A입니다.")              # 쉘에 "성적은 A입니다." 출력
+    elif score >= 80:                         # score의 값이 90보다 작고 80보다 크거나 같다면
+        print("성적은 B입니다.")              # 쉘에 "성적은 B입니다." 출력
+    elif score >= 70:                         # score의 값이 80보다 작고 70보다 크거나 같다면
+        print("성적은 C입니다.")              # 쉘에 "성적은 C입니다." 출력
+    elif score >= 60:                         # score의 값이 70보다 작고 60보다 크거나 같다면
+        print("성적은 D입니다.")              # 쉘에 "성적은 D입니다." 출력
+    else:                                     # score의 값이 60보다 작으면
+        print("성적은 F입니다.")              # 쉘에 "성적은 F입니다." 출력
 
-    time.sleep(1)                              # 1초간 대기
+    time.sleep(1)                             # 1초간 대기
 
 
 # start point

@@ -42,7 +42,7 @@ def loop():
     elif button_blue_value == LOW:           # 파랑 버튼의 값이 LOW라면
         led_blue.value(HIGH)                 # 파랑 LED 켜기
         print("파랑 버튼이 눌림")            # 쉘에 "파랑 버튼이 눌림" 출력
-    else:                                    # 빨강, 파랑 버튼의 값이 LOW가 아니라면
+    else:                                    # 빨강, 파랑 버튼의 값이 LOW가 아니면
         led_red.value(LOW)                   # 빨강 LED 끄기
         led_blue.value(LOW)                  # 파랑 LED 끄기
         print("버튼이 눌리지 않음")          # 쉘에 "버튼이 눌리지 않음" 출력
